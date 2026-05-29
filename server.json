@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Shown06/tamawaru-mcp",
+  "description": "Japanese government subsidy / grant search (6,000+ programs from central government + 47 prefectures). 2 tools. Free during Phase 1 — no API key required.",
+  "repository": {
+    "url": "https://github.com/Shown06/tamawaru-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "registryBaseUrl": "https://registry.npmjs.org",
+      "identifier": "@shown06/tamawaru-mcp",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
